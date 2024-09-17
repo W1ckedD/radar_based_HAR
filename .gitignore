@@ -1,0 +1,9 @@
+*.dat
+*.png
+wandb/
+*.zip
+*.pyc
+*.ckpt
+*.m
+*.pdf
+*.7z
